@@ -242,6 +242,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYHPJFKQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Touch_Screen\Design Rule Check - Touch_Screen.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
